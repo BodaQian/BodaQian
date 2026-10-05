@@ -22,6 +22,10 @@
   *First Inventor of National Invention Patent Application: A CNN & OpenCV-Based Solar Tracking System (`CN116860019A`).*  
   *国家发明专利申请第一发明人：《基于CNN和OpenCV的太阳追踪系统》(`CN116860019A`)。*
 
+- 💬 **Ask me about ...** / **欢迎和我聊聊：**  
+  *ROS 2 Middleware, PX4 Simulation, TensorFlow Model Optimization & Deployment, and Cloud/Embedded Infrastructure.*  
+  *ROS 2 中间件、PX4 仿真协同、TensorFlow 视觉模型优化部署与云端/嵌入式架构。*
+
 - ⚡ **Fun fact / 趣事：**  
   *When not coding or tuning PID controllers, I’m probably deadlifting in the gym or exploring local BBQ joints in Paris!* 🏋️‍♂️🍢  
   *不敲代码或调参时，我通常在健身房拉硬拉，或者在巴黎探索好吃的烧烤和火锅！*
@@ -31,8 +35,20 @@
 ### 🛠 Tech Stack / 技术栈
 
 - **Robotics & Simulation / 机器人与仿真:** ROS 2, PX4, MAVSDK, AirSim, Webots, OctoMap, RViz2
-- **Perception & AI / 感知与人工智能:** OpenCV, TensorFlow / Keras, YOLOv8, Fast-SCNN, Point Cloud Processing
-- **Languages & Embedded / 编程语言与嵌入式:** C++, Python, Linux (Ubuntu), Git, Raspberry Pi, Arduino
+- **Perception & AI / 感知与人工智能:** OpenCV, TensorFlow, YOLOv8, Fast-SCNN, Point Cloud Processing
+- **Cloud & Embedded / 云计算与嵌入式:** Alibaba Cloud Architecture, C++, Python, Linux (Ubuntu), Git, Raspberry Pi, Arduino
+
+---
+
+### 📜 Certifications & Honors / 资格认证与荣誉
+
+- **Alibaba Cloud Certified Professional (ACP) - Cloud Computing**  
+  *Certificate ID: `ACP01220800609268` (Valid: Aug 2022 – Aug 2024)*  
+  阿里云专业工程师认证 — 云计算方向（证书编号：`ACP01220800609268`）
+
+- **National Invention Patent Application (First Inventor)**  
+  *A CNN & OpenCV-Based Solar Tracking System (`CN116860019A`)*  
+  国家发明专利申请（第一发明人）：《基于CNN和OpenCV的太阳追踪系统》（`CN116860019A`）
 
 ---
 
@@ -43,8 +59,8 @@
   *基于 PX4 与 ROS 2 的软硬件集成，利用 AirSim 进行仿真测试，结合 OctoMap 进行三维地图重建，并通过 YOLO 实现目标检测与识别。*
 
 - [TSR_py](https://github.com/BodaQian/TSR_py): **Traffic Sign Recognition & Vision Pipeline / 交通标志识别与视觉处理管线**  
-  *Python/PyTorch-based computer vision implementation for real-time traffic sign detection and semantic segmentation.*  
-  *基于 Python 与 PyTorch 开发的计算机视觉系统，实现了实时交通标志检测与图像语义分割功能。*
+  *Python/TensorFlow computer vision implementation for real-time traffic sign detection and semantic segmentation.*  
+  *基于 Python 与 TensorFlow 开发的计算机视觉系统，实现了实时交通标志检测与图像语义分割功能。*
 
 ---
 
