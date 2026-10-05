@@ -22,10 +22,6 @@
   *First Inventor of National Invention Patent Application: A CNN & OpenCV-Based Solar Tracking System (`CN116860019A`).*  
   *国家发明专利申请第一发明人：《基于CNN和OpenCV的太阳追踪系统》(`CN116860019A`)。*
 
-- 💬 **Ask me about ...** / **欢迎和我聊聊：**  
-  *ROS 2 Middleware, PX4 Simulation, TensorFlow Model Optimization & Deployment, and Embedded Systems.*  
-  *ROS 2 中间件、PX4 仿真协同、TensorFlow 视觉模型优化与嵌入式部署。*
-
 - ⚡ **Fun fact / 趣事：**  
   *When not coding or tuning PID controllers, I’m probably deadlifting in the gym or exploring local BBQ joints in Paris!* 🏋️‍♂️🍢  
   *不敲代码或调参时，我通常在健身房拉硬拉，或者在巴黎探索好吃的烧烤和火锅！*
