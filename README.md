@@ -54,7 +54,7 @@
 
 ### 🚀 Highlight Projects / 高光项目
 
-- [ProjectTER](https://github.com/BodaQian/ProjectTER): **Autonomous Drone Search & Rescue System / 自主无人机搜救系统**  
+- [uav-search-rescue-sim](https://github.com/BodaQian/uav-search-rescue-sim): **Autonomous Drone Search & Rescue System / 自主无人机搜救系统**  
   *PX4-ROS 2 integration, AirSim simulation, OctoMap 3D reconstruction, and YOLO-based target detection.*  
   *基于 PX4 与 ROS 2 的软硬件集成，利用 AirSim 进行仿真测试，结合 OctoMap 进行三维地图重建，并通过 YOLO 实现目标检测与识别。*
 
